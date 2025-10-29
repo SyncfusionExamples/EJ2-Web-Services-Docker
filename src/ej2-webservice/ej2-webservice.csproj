@@ -49,7 +49,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
-    <PackageReference Include="Npgsql" Version="4.0.2" />
+    <PackageReference Include="Npgsql" Version="4.0.14" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="4.0.14" />
 	<PackageReference Include="Syncfusion.XlsIORenderer.Net.Core" Version="*" />
 	<PackageReference Include="Syncfusion.EJ2.Spreadsheet.AspNet.Core" Version="*" />
